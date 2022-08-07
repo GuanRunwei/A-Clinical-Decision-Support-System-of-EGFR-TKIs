@@ -3,7 +3,7 @@
 
 
 > code
-> >  the code of model evaluation
+> >  the code of model training and test
 
 > model
 > >  the artificial neural network model trained on Dataset2
